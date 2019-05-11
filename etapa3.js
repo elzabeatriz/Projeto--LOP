@@ -4,10 +4,6 @@ Equipe
    Etapa 2
 */
 
-function setup() {
-  createCanvas(400, 400);
-}
-
 var yo = 0;
 var xo = 50;
 var x = 200;
